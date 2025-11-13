@@ -53,10 +53,10 @@
 
 
 ## Output:
+![alt text](<Screenshot 2025-11-13 172148.png>)
 
-
-### Name:
-### Register Number: 
+### Name:Hari Ram R
+### Register Number:212224240050
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
